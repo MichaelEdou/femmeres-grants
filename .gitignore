@@ -1,0 +1,34 @@
+# Nuxt / Node
+node_modules
+.nuxt
+.nitro
+.output
+dist
+.cache
+.data
+.vercel
+
+# Logs
+*.log
+logs
+
+# Env
+.env
+.env.*
+!.env.example
+
+# System
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode
+.idea
+
+# Old projects (cleaned up)
+commerce.framer.media
+goClone
+memoir.framer.website
+docs
+.claude
